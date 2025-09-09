@@ -1,0 +1,16 @@
+Variable,Descripción,Valor1,Valor2,Valor3,Valor3
+Id_cliente,Indicador nº de cliente,,,,
+genero,Género del cliente,Femenino,Masculino,,
+Socio,"Indica si el cliente posee categoría comercial  ""socio""",Si,No,,
+Empleados,Indica si el cliente tiene empleados a cargo ( empleador),Si,No,,
+Meses,N° meses que el cliente ha permanecido en la empresa,,,,
+Servicio,Si el cliente tiene servicio telefónico o no,,,,
+Lineas,Si el cliente tiene varias líneas o no,Si,No,Sin servicio telefónico,
+Internet,Tiene servicios de Internet,DSL (RURAL),Fibra optica,No,
+Seguridad,"Tiene servicios de seguridad (alarma, monitoreo, etc)",Si,No,No tiene internet,
+Contrato,Plazo del contrato que tiene el cliente,Mensual,Anual,Bianual,
+Factura,Si el cliente recibe una factura en su domicilio,Si,No,,
+Pago,Método de pago del cliente,Cheque electrónico,Canal extrabancario,Débito en cuenta,Tarjeta de crédito
+Impormensual,Importe cobrado al cliente mensualmente.,,,,
+Importotal,Importe total cargado al cliente,,,,
+Cancelacion,Indica si el cliente canceló el servicio en el último mes,Si,No,,
