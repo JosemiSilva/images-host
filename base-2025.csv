@@ -1,0 +1,434 @@
+Id_cliente,genero,Socio,Empleados,Meses,Servicio,Lineas,Internet,Seguridad,Contrato,Factura,Pago,Impormensual,Importotal,Cancelacion
+1,Femenino,Si,No,28,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,10480,304605,Si
+2,Masculino,No,No,25,Si,No,Fibra optica,Si,Mensual,Si,Cheque electrónico,10550,268605,No
+3,Femenino,No,No,11,Si,Si,Fibra optica,No,Mensual,Si,Débito en cuenta,9785,110540,Si
+4,Femenino,No,No,63,Si,Si,DSL,Si,Bianual,Si,Tarjeta de crédito,7985,486145,No
+5,Femenino,Si,No,25,Si,Si,DSL,Si,Mensual,Si,Tarjeta de crédito,6950,175265,No
+6,Femenino,Si,Si,34,Si,Si,No,No tiene internet,Bianual,No,Tarjeta de crédito,2495,89430,No
+7,Masculino,No,No,9,Si,Si,Fibra optica,No,Mensual,Si,Tarjeta de crédito,9930,91875,No
+8,Femenino,Si,Si,1,Si,No,No,No tiene internet,Mensual,No,Cheque electrónico,1945,1945,No
+9,Masculino,Si,Si,27,Si,Si,Fibra optica,No,Mensual,Si,Tarjeta de crédito,8520,215160,No
+10,Masculino,Si,Si,15,Si,No,DSL,No,Mensual,Si,Canal extrabancario,6950,107140,No
+11,Masculino,Si,Si,22,Si,No,No,No tiene internet,Anual,No,Canal extrabancario,2015,41990,No
+12,Masculino,No,No,10,Si,Si,No,No tiene internet,Bianual,No,Débito en cuenta,2570,25160,No
+13,Femenino,No,Si,13,Si,No,DSL,Si,Mensual,Si,Cheque electrónico,5600,76455,No
+14,Femenino,No,No,2,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,6970,13520,No
+15,Masculino,Si,No,69,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,1990,136345,No
+16,Masculino,No,No,2,Si,Si,DSL,No,Mensual,Si,Canal extrabancario,5440,11410,Si
+17,Femenino,Si,Si,71,Si,No,Fibra optica,No,Bianual,No,Cheque electrónico,7605,543645,No
+18,Masculino,Si,Si,52,Si,Si,No,No tiene internet,Bianual,No,Canal extrabancario,2480,122910,No
+19,Masculino,Si,No,24,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,9315,223105,Si
+20,Femenino,Si,Si,35,Si,No,No,No tiene internet,Bianual,Si,Canal extrabancario,1985,73935,No
+21,Femenino,No,No,8,Si,No,No,No tiene internet,Anual,Si,Canal extrabancario,1920,16195,No
+22,Femenino,Si,No,55,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8545,487470,Si
+23,Masculino,No,No,44,Si,Si,Fibra optica,No,Mensual,Si,Canal extrabancario,9040,406300,No
+24,Masculino,No,No,20,Si,No,No,No tiene internet,Bianual,Si,Canal extrabancario,1970,41940,No
+25,Femenino,Si,No,46,Si,Si,No,No tiene internet,Anual,Si,Débito en cuenta,2445,106615,No
+26,Masculino,Si,No,36,Si,No,No,No tiene internet,Anual,No,Débito en cuenta,2085,72005,No
+27,Masculino,No,No,1,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2040,2040,No
+28,Masculino,Si,No,34,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,10005,348000,Si
+29,Masculino,No,No,1,Si,No,DSL,No,Mensual,Si,Cheque electrónico,4930,4930,No
+30,Femenino,No,No,35,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,10025,352760,Si
+31,Masculino,Si,No,35,Si,Si,Fibra optica,Si,Mensual,Si,Cheque electrónico,9455,336540,No
+32,Masculino,No,No,1,Si,No,DSL,No,Mensual,No,Canal extrabancario,4560,4560,No
+33,Masculino,Si,No,72,Si,Si,DSL,Si,Bianual,No,Tarjeta de crédito,8665,609425,No
+34,Masculino,Si,Si,10,No,Sin servicio telefónico,DSL,No,Mensual,Si,Débito en cuenta,3455,36260,No
+35,Masculino,Si,Si,56,Si,Si,Fibra optica,Si,Anual,Si,Débito en cuenta,10455,579465,Si
+36,Masculino,No,No,52,No,Sin servicio telefónico,DSL,No,Anual,No,Canal extrabancario,3010,162340,No
+37,Masculino,No,No,51,Si,Si,Fibra optica,No,Mensual,No,Débito en cuenta,8340,414945,No
+38,Femenino,No,No,25,Si,No,Fibra optica,Si,Mensual,Si,Débito en cuenta,7985,201535,Si
+39,Femenino,No,No,5,Si,No,DSL,No,Mensual,Si,Tarjeta de crédito,4405,20215,No
+40,Masculino,Si,Si,72,Si,Si,Fibra optica,Si,Bianual,Si,Débito en cuenta,11495,819640,No
+41,Masculino,No,No,22,Si,Si,Fibra optica,No,Mensual,Si,Canal extrabancario,7885,160025,No
+42,Masculino,No,No,15,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,9335,144465,Si
+43,Femenino,No,No,46,Si,Si,Fibra optica,Si,Anual,Si,Cheque electrónico,11000,487480,Si
+44,Masculino,Si,Si,60,Si,No,Fibra optica,No,Anual,No,Cheque electrónico,9095,545340,Si
+45,Masculino,No,No,1,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,8990,8990,Si
+46,Masculino,No,No,32,Si,Si,Fibra optica,No,Mensual,Si,Tarjeta de crédito,8110,261925,No
+47,Femenino,No,No,9,Si,Si,Fibra optica,No,Mensual,No,Tarjeta de crédito,9830,92350,Si
+48,Masculino,No,No,17,Si,No,Fibra optica,Si,Mensual,No,Cheque electrónico,9385,162565,Si
+49,Femenino,No,No,23,Si,No,Fibra optica,Si,Mensual,Si,Débito en cuenta,7540,164355,No
+50,Masculino,No,No,24,Si,No,Fibra optica,No,Mensual,Si,Tarjeta de crédito,7985,200100,No
+51,Femenino,No,No,3,Si,Si,Fibra optica,No,Mensual,No,Débito en cuenta,7440,21580,Si
+52,Femenino,No,No,20,Si,No,No,No tiene internet,Mensual,Si,Débito en cuenta,1950,41300,No
+53,Masculino,Si,No,28,Si,No,DSL,Si,Anual,No,Canal extrabancario,5435,142645,No
+54,Femenino,Si,Si,16,No,Sin servicio telefónico,DSL,No,Mensual,Si,Tarjeta de crédito,3550,55270,No
+55,Femenino,No,No,5,No,Sin servicio telefónico,DSL,No,Mensual,No,Cheque electrónico,3950,21075,Si
+56,Masculino,No,No,23,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,9060,194320,Si
+57,Masculino,No,No,1,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2110,2110,No
+58,Femenino,No,No,41,Si,Si,Fibra optica,Si,Mensual,Si,Débito en cuenta,11450,452745,Si
+59,Masculino,No,No,32,Si,No,No,No tiene internet,Bianual,Si,Débito en cuenta,2005,61445,No
+60,Femenino,No,No,16,Si,Si,Fibra optica,No,Mensual,Si,Tarjeta de crédito,7475,112935,No
+61,Femenino,No,No,51,Si,Si,Fibra optica,Si,Anual,No,Débito en cuenta,10745,568090,No
+62,Femenino,No,No,3,Si,Si,DSL,No,Mensual,Si,Cheque electrónico,6025,17050,No
+63,Masculino,No,No,3,Si,No,Fibra optica,No,Mensual,No,Tarjeta de crédito,8570,25675,No
+64,Femenino,No,No,3,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,7015,19420,No
+65,Femenino,Si,Si,62,Si,Si,DSL,No,Mensual,Si,Tarjeta de crédito,7045,430045,No
+66,Femenino,No,No,7,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,7930,52315,Si
+67,Femenino,Si,Si,72,Si,Si,DSL,Si,Bianual,Si,Tarjeta de crédito,8590,611075,No
+68,Femenino,Si,No,2,Si,No,Fibra optica,Si,Mensual,Si,Cheque electrónico,8015,19455,No
+69,Masculino,Si,No,59,Si,Si,Fibra optica,Si,Anual,Si,Cheque electrónico,11015,644805,Si
+70,Femenino,Si,Si,43,No,Sin servicio telefónico,DSL,Si,Anual,Si,Débito en cuenta,5125,215160,No
+71,Masculino,Si,No,22,Si,No,DSL,Si,Anual,Si,Tarjeta de crédito,5625,129220,No
+72,Femenino,No,No,1,No,Sin servicio telefónico,DSL,No,Mensual,Si,Cheque electrónico,2520,2520,Si
+73,Femenino,Si,No,28,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2050,56305,No
+74,Femenino,Si,No,71,Si,Si,Fibra optica,Si,Anual,Si,Tarjeta de crédito,10410,741225,No
+75,Femenino,Si,Si,43,Si,Si,Fibra optica,No,Mensual,Si,Débito en cuenta,9255,403900,No
+76,Masculino,Si,Si,65,Si,Si,Fibra optica,Si,Bianual,No,Tarjeta de crédito,9455,607875,No
+77,Femenino,No,No,23,Si,Si,No,No tiene internet,Anual,No,Tarjeta de crédito,2480,61535,No
+78,Masculino,Si,No,9,Si,No,DSL,Si,Mensual,Si,Canal extrabancario,6895,59385,No
+79,Masculino,Si,No,36,Si,No,No,No tiene internet,Anual,No,Canal extrabancario,2000,66675,No
+80,Masculino,No,No,41,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,10470,434640,Si
+81,Femenino,Si,Si,23,Si,No,DSL,Si,Anual,Si,Canal extrabancario,5775,128285,No
+82,Masculino,No,No,54,Si,No,No,No tiene internet,Bianual,No,Tarjeta de crédito,1965,100870,No
+83,Masculino,Si,No,71,Si,Si,DSL,Si,Bianual,No,Tarjeta de crédito,8040,572715,No
+84,Femenino,Si,Si,67,Si,No,No,No tiene internet,Bianual,Si,Débito en cuenta,1925,137290,No
+85,Femenino,Si,No,17,Si,Si,Fibra optica,No,Mensual,No,Cheque electrónico,9260,157970,No
+86,Femenino,Si,No,3,Si,No,No,No tiene internet,Mensual,Si,Canal extrabancario,1960,5525,No
+87,Femenino,Si,Si,42,Si,No,Fibra optica,No,Mensual,Si,Tarjeta de crédito,7795,338400,Si
+88,Masculino,No,No,48,Si,Si,Fibra optica,No,Anual,Si,Tarjeta de crédito,10610,508280,Si
+89,Femenino,No,No,1,Si,Si,Fibra optica,No,Mensual,No,Canal extrabancario,8580,8580,Si
+90,Masculino,No,No,5,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,6975,32460,Si
+91,Masculino,Si,Si,56,Si,Si,No,No tiene internet,Anual,Si,Canal extrabancario,2445,143165,No
+92,Femenino,Si,No,71,Si,Si,No,No tiene internet,Bianual,Si,Tarjeta de crédito,2440,172540,No
+93,Masculino,No,No,68,Si,Si,DSL,Si,Anual,No,Tarjeta de crédito,7675,523325,No
+94,Masculino,Si,No,72,Si,No,No,No tiene internet,Bianual,No,Tarjeta de crédito,1970,142190,No
+95,Femenino,Si,No,3,Si,Si,Fibra optica,No,Mensual,No,Cheque electrónico,9490,27320,No
+96,Masculino,No,No,16,Si,Si,DSL,No,Mensual,Si,Débito en cuenta,7140,121210,No
+97,Femenino,No,No,72,Si,Si,Fibra optica,Si,Bianual,Si,Débito en cuenta,11645,801355,No
+98,Masculino,No,No,20,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,1940,41540,No
+99,Masculino,No,No,13,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,9050,120115,Si
+100,Masculino,No,No,19,Si,No,No,No tiene internet,Anual,No,Canal extrabancario,1880,27920,No
+101,Masculino,Si,Si,46,Si,No,No,No tiene internet,Bianual,Si,Canal extrabancario,2010,93685,No
+102,Femenino,No,No,52,No,Sin servicio telefónico,DSL,No,Mensual,Si,Cheque electrónico,5050,256630,No
+103,Femenino,No,No,23,Si,No,DSL,No,Anual,No,Débito en cuenta,5580,132785,No
+104,Masculino,No,Si,16,Si,Si,DSL,Si,Mensual,Si,Cheque electrónico,6910,108370,No
+105,Femenino,No,No,41,Si,Si,No,No tiene internet,Anual,Si,Canal extrabancario,2485,96225,No
+106,Femenino,No,No,7,Si,No,DSL,Si,Mensual,Si,Cheque electrónico,7850,57105,No
+107,Masculino,No,No,24,Si,No,DSL,Si,Mensual,No,Cheque electrónico,5495,134850,No
+108,Femenino,Si,Si,13,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,1955,26530,No
+109,Femenino,Si,Si,35,No,Sin servicio telefónico,DSL,Si,Bianual,Si,Tarjeta de crédito,4635,166205,No
+110,Femenino,Si,Si,1,Si,No,DSL,No,Mensual,Si,Cheque electrónico,4570,4570,Si
+111,Masculino,No,No,2,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,8020,18110,Si
+112,Femenino,No,Si,4,Si,Si,Fibra optica,No,Mensual,Si,Canal extrabancario,8710,34145,Si
+113,Masculino,Si,No,71,Si,Si,DSL,Si,Bianual,No,Débito en cuenta,9055,640400,No
+114,Masculino,No,No,45,Si,Si,Fibra optica,Si,Mensual,Si,Tarjeta de crédito,10845,496470,No
+115,Masculino,Si,Si,37,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,9295,341525,No
+116,Masculino,Si,No,72,Si,Si,DSL,Si,Bianual,Si,Tarjeta de crédito,8410,598165,No
+117,Femenino,Si,Si,67,Si,Si,DSL,Si,Bianual,Si,Cheque electrónico,7550,522945,No
+118,Masculino,No,No,1,Si,No,DSL,No,Mensual,No,Canal extrabancario,4445,4445,No
+119,Femenino,No,No,1,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2015,2015,No
+120,Masculino,Si,No,30,Si,Si,DSL,No,Bianual,No,Cheque electrónico,7485,218175,No
+121,Masculino,No,No,68,Si,Si,No,No tiene internet,Bianual,Si,Débito en cuenta,2415,149885,No
+122,Masculino,Si,No,51,Si,Si,Fibra optica,No,Anual,Si,Débito en cuenta,10680,549880,No
+123,Femenino,Si,Si,57,Si,Si,DSL,Si,Bianual,Si,Cheque electrónico,8450,484540,No
+124,Masculino,Si,Si,67,Si,No,No,No tiene internet,Bianual,Si,Tarjeta de crédito,1940,128420,No
+125,Masculino,Si,Si,36,Si,No,No,No tiene internet,Bianual,No,Tarjeta de crédito,1945,75450,No
+126,Masculino,No,No,54,Si,No,DSL,Si,Mensual,Si,Canal extrabancario,6990,388330,No
+127,Femenino,Si,Si,41,Si,Si,DSL,Si,Anual,Si,Tarjeta de crédito,7835,321120,No
+128,Femenino,Si,Si,67,No,Sin servicio telefónico,DSL,Si,Bianual,No,Tarjeta de crédito,3570,254570,No
+129,Femenino,No,No,15,Si,No,No,No tiene internet,Anual,No,Tarjeta de crédito,2010,30245,No
+130,Masculino,No,Si,3,Si,No,DSL,Si,Mensual,No,Canal extrabancario,5590,15755,No
+131,Masculino,Si,No,53,Si,Si,Fibra optica,Si,Mensual,No,Cheque electrónico,9390,502920,Si
+132,Masculino,No,No,11,Si,No,DSL,No,Anual,Si,Cheque electrónico,6125,72995,No
+133,Femenino,Si,Si,42,Si,Si,Fibra optica,Si,Anual,Si,Tarjeta de crédito,9445,392380,No
+134,Femenino,No,No,57,Si,Si,Fibra optica,Si,Bianual,Si,Débito en cuenta,11295,646500,Si
+135,Masculino,Si,Si,60,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,2055,120505,No
+136,Femenino,Si,No,72,Si,Si,No,No tiene internet,Bianual,Si,Débito en cuenta,2525,184120,No
+137,Masculino,Si,Si,53,Si,Si,DSL,No,Anual,Si,Canal extrabancario,7875,394245,No
+138,Femenino,No,No,9,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8330,80330,Si
+139,Masculino,No,No,25,Si,Si,No,No tiene internet,Anual,No,Débito en cuenta,2530,67635,Si
+140,Femenino,No,No,70,Si,Si,Fibra optica,Si,Bianual,Si,Tarjeta de crédito,11195,779595,No
+141,Femenino,Si,No,72,Si,Si,No,No tiene internet,Bianual,No,Tarjeta de crédito,2485,187185,No
+142,Femenino,No,No,72,Si,No,DSL,Si,Bianual,Si,Tarjeta de crédito,7300,526520,No
+143,Femenino,No,No,33,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,11045,365545,Si
+144,Masculino,No,No,22,Si,Si,Fibra optica,Si,Mensual,Si,Débito en cuenta,10135,231710,Si
+145,Femenino,No,No,34,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,9635,319025,No
+146,Femenino,Si,Si,56,Si,No,DSL,Si,Bianual,Si,Tarjeta de crédito,7260,408435,No
+147,Femenino,Si,No,64,Si,Si,Fibra optica,Si,Anual,Si,Cheque electrónico,11500,739615,No
+148,Femenino,Si,Si,13,Si,No,DSL,Si,Mensual,Si,Canal extrabancario,6315,81680,No
+149,Femenino,No,No,43,Si,No,No,No tiene internet,Bianual,Si,Débito en cuenta,1965,77925,No
+150,Femenino,Si,No,41,Si,No,No,No tiene internet,Bianual,No,Tarjeta de crédito,2065,87555,No
+151,Femenino,Si,No,13,Si,No,DSL,No,Anual,No,Cheque electrónico,4380,59265,No
+152,Masculino,No,No,1,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,2045,2045,No
+153,Masculino,No,No,60,Si,No,DSL,Si,Bianual,No,Cheque electrónico,6140,363825,No
+154,Femenino,No,No,12,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2030,24670,No
+155,Masculino,Si,No,14,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8610,123555,Si
+156,Masculino,Si,No,20,Si,No,Fibra optica,No,Mensual,Si,Canal extrabancario,8900,182045,Si
+157,Femenino,No,No,43,Si,No,DSL,No,Anual,No,Cheque electrónico,5545,244425,No
+158,Femenino,Si,Si,64,Si,Si,Fibra optica,No,Anual,Si,Cheque electrónico,9285,598075,No
+159,Masculino,No,Si,19,Si,Si,No,No tiene internet,Mensual,Si,Tarjeta de crédito,2410,43920,No
+160,Masculino,No,No,1,Si,No,No,No tiene internet,Mensual,Si,Canal extrabancario,1950,1950,No
+161,Masculino,Si,Si,52,Si,No,No,No tiene internet,Anual,Si,Tarjeta de crédito,2085,107160,No
+162,Masculino,No,No,10,No,Sin servicio telefónico,DSL,No,Mensual,Si,Canal extrabancario,3390,29845,Si
+163,Masculino,Si,No,62,No,Sin servicio telefónico,DSL,Si,Bianual,Si,Tarjeta de crédito,3860,234555,No
+164,Masculino,No,No,9,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2040,18180,No
+165,Masculino,No,No,27,Si,No,DSL,Si,Anual,No,Cheque electrónico,8170,221255,No
+166,Masculino,Si,Si,1,Si,No,Fibra optica,No,Mensual,No,Canal extrabancario,8915,8915,Si
+167,Femenino,Si,Si,22,Si,No,DSL,No,Mensual,No,Cheque electrónico,5515,120605,Si
+168,Femenino,Si,No,61,Si,Si,Fibra optica,No,Anual,Si,Débito en cuenta,10330,651835,No
+169,Femenino,Si,Si,71,Si,Si,DSL,Si,Bianual,No,Débito en cuenta,8990,634270,No
+170,Masculino,Si,Si,65,Si,Si,Fibra optica,No,Bianual,Si,Débito en cuenta,10410,670005,No
+171,Masculino,No,No,2,No,Sin servicio telefónico,DSL,No,Mensual,No,Canal extrabancario,2430,3845,No
+172,Masculino,No,Si,2,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2040,4290,No
+173,Masculino,Si,No,30,Si,No,Fibra optica,No,Mensual,Si,Canal extrabancario,7965,236515,Si
+174,Femenino,No,No,5,Si,No,DSL,Si,Mensual,No,Cheque electrónico,5420,30825,Si
+175,Masculino,Si,No,24,Si,No,DSL,Si,Anual,No,Débito en cuenta,7440,171290,No
+176,Masculino,No,No,2,Si,No,Fibra optica,No,Mensual,Si,Tarjeta de crédito,9510,18025,Si
+177,Masculino,No,No,6,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,1895,11015,No
+178,Femenino,Si,Si,5,Si,No,Fibra optica,No,Mensual,Si,Canal extrabancario,9915,46505,Si
+179,Masculino,No,No,9,Si,No,DSL,No,Mensual,No,Canal extrabancario,4495,43100,Si
+180,Masculino,Si,Si,34,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,8985,309175,No
+181,Masculino,No,Si,5,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,2045,10690,No
+182,Femenino,Si,Si,23,Si,No,Fibra optica,No,Mensual,No,Cheque electrónico,8380,190025,Si
+183,Femenino,Si,Si,72,Si,No,No,No tiene internet,Bianual,No,Débito en cuenta,2010,146085,No
+184,Masculino,No,No,65,Si,Si,No,No tiene internet,Anual,No,Tarjeta de crédito,2480,160095,No
+185,Masculino,Si,Si,23,Si,No,DSL,Si,Anual,No,Tarjeta de crédito,5720,142335,No
+186,Masculino,Si,No,67,Si,No,DSL,Si,Bianual,Si,Tarjeta de crédito,6920,467165,No
+187,Femenino,No,No,24,Si,No,DSL,No,Mensual,Si,Tarjeta de crédito,4930,123325,No
+188,Femenino,No,No,1,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,7025,7025,No
+189,Masculino,No,No,1,Si,No,DSL,No,Mensual,No,Canal extrabancario,4630,4630,Si
+190,Femenino,No,No,12,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,8940,109565,Si
+191,Masculino,No,No,19,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,1965,35815,No
+192,Femenino,Si,Si,53,No,Sin servicio telefónico,DSL,Si,Mensual,Si,Débito en cuenta,4870,249520,No
+193,Masculino,No,No,57,Si,Si,Fibra optica,No,Mensual,Si,Débito en cuenta,10490,591395,No
+194,Femenino,Si,Si,1,Si,No,No,No tiene internet,Mensual,Si,Canal extrabancario,1940,1940,No
+195,Femenino,No,No,4,Si,No,DSL,No,Mensual,No,Tarjeta de crédito,5070,15130,Si
+196,Masculino,Si,Si,4,Si,No,DSL,No,Mensual,No,Tarjeta de crédito,6145,22955,Si
+197,Femenino,No,No,1,Si,No,No,No tiene internet,Mensual,Si,Canal extrabancario,1950,1950,No
+198,Femenino,Si,Si,9,Si,Si,Fibra optica,No,Mensual,Si,Débito en cuenta,8535,75465,Si
+199,Femenino,No,No,70,Si,Si,Fibra optica,Si,Bianual,Si,Débito en cuenta,11365,793925,No
+200,Femenino,No,No,11,Si,Si,Fibra optica,No,Mensual,Si,Tarjeta de crédito,8480,90685,Si
+201,Masculino,No,No,16,Si,No,No,No tiene internet,Mensual,Si,Canal extrabancario,1970,34240,Si
+202,Masculino,Si,Si,25,Si,No,DSL,No,Anual,No,Canal extrabancario,5365,135545,No
+203,Femenino,Si,Si,72,Si,No,Fibra optica,Si,Bianual,Si,Débito en cuenta,10865,772635,No
+204,Masculino,No,No,26,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8050,208880,Si
+205,Femenino,Si,Si,72,Si,Si,No,No tiene internet,Anual,Si,Débito en cuenta,2330,162315,No
+206,Masculino,No,No,5,No,Sin servicio telefónico,DSL,Si,Mensual,No,Canal extrabancario,4000,22345,Si
+207,Femenino,Si,No,70,Si,Si,Fibra optica,No,Anual,Si,Cheque electrónico,10175,706930,No
+208,Femenino,No,No,4,Si,No,No,No tiene internet,Mensual,No,Débito en cuenta,2095,8550,Si
+209,Femenino,Si,No,72,Si,Si,No,No tiene internet,Bianual,No,Cheque electrónico,2455,175070,No
+210,Femenino,No,No,10,Si,No,DSL,No,Mensual,No,Cheque electrónico,5425,58300,No
+211,Femenino,No,No,9,Si,No,DSL,No,Mensual,No,Cheque electrónico,4515,41645,Si
+212,Masculino,Si,No,22,Si,No,DSL,Si,Anual,Si,Débito en cuenta,5975,137435,No
+213,Masculino,Si,No,9,No,Sin servicio telefónico,DSL,No,Mensual,No,Canal extrabancario,4065,32895,Si
+214,Femenino,Si,Si,67,Si,Si,Fibra optica,Si,Bianual,Si,Tarjeta de crédito,10875,715620,Si
+215,Femenino,No,No,5,Si,Si,DSL,No,Mensual,Si,Canal extrabancario,5060,24995,Si
+216,Masculino,Si,No,61,Si,Si,Fibra optica,No,Bianual,Si,Cheque electrónico,9410,563830,Si
+217,Masculino,No,No,1,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,7165,7165,Si
+218,Femenino,No,No,18,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,7355,135945,No
+219,Femenino,No,No,53,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,2025,104845,No
+220,Femenino,Si,Si,8,Si,No,DSL,No,Mensual,Si,Cheque electrónico,4545,41175,No
+221,Femenino,No,No,2,Si,No,DSL,No,Mensual,No,Canal extrabancario,4920,10370,No
+222,Masculino,No,No,1,Si,No,No,No tiene internet,Mensual,Si,Débito en cuenta,1965,1965,No
+223,Femenino,No,No,54,Si,Si,Fibra optica,No,Anual,Si,Débito en cuenta,9475,512175,No
+224,Masculino,Si,No,50,Si,Si,Fibra optica,No,Anual,Si,Cheque electrónico,9825,485870,No
+225,Masculino,Si,Si,71,Si,Si,Fibra optica,Si,Bianual,Si,Débito en cuenta,11605,829750,No
+226,Femenino,Si,Si,72,Si,Si,Fibra optica,Si,Bianual,Si,Cheque electrónico,11550,842515,No
+227,Masculino,Si,Si,20,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,9020,177655,Si
+228,Masculino,Si,No,70,Si,Si,DSL,Si,Bianual,No,Canal extrabancario,7915,553650,No
+229,Femenino,Si,No,6,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,10530,54520,Si
+230,Femenino,Si,No,52,Si,Si,Fibra optica,No,Anual,Si,Cheque electrónico,10650,562185,No
+231,Femenino,No,No,8,Si,Si,Fibra optica,No,Mensual,No,Cheque electrónico,8520,69575,No
+232,Femenino,Si,Si,58,No,Sin servicio telefónico,DSL,Si,Bianual,No,Canal extrabancario,5975,362435,No
+233,Masculino,Si,Si,14,Si,No,DSL,Si,Mensual,Si,Cheque electrónico,6545,93760,Si
+234,Femenino,No,No,1,Si,No,No,No tiene internet,Mensual,Si,Canal extrabancario,2025,2025,No
+235,Masculino,No,No,1,Si,No,Fibra optica,No,Mensual,No,Cheque electrónico,7400,7400,No
+236,Femenino,No,No,20,Si,No,Fibra optica,Si,Mensual,Si,Débito en cuenta,8940,187115,No
+237,Masculino,No,No,56,Si,Si,Fibra optica,No,Mensual,No,Cheque electrónico,9860,558105,No
+238,Femenino,No,No,1,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,1950,1950,No
+239,Masculino,No,Si,1,No,Sin servicio telefónico,DSL,No,Mensual,No,Canal extrabancario,3360,3360,No
+240,Femenino,No,No,1,Si,No,No,No tiene internet,Mensual,No,Cheque electrónico,2070,2070,No
+241,Femenino,No,Si,22,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8475,181675,No
+242,Masculino,Si,Si,57,Si,No,No,No tiene internet,Anual,No,Canal extrabancario,1940,106160,No
+243,Femenino,No,No,32,Si,Si,Fibra optica,No,Anual,No,Cheque electrónico,8405,278185,Si
+244,Femenino,Si,Si,54,Si,Si,DSL,Si,Bianual,No,Débito en cuenta,6000,327395,No
+245,Femenino,No,No,1,Si,No,No,No tiene internet,Mensual,Si,Canal extrabancario,1910,1910,Si
+246,Masculino,Si,Si,24,Si,Si,Fibra optica,Si,Mensual,Si,Cheque electrónico,7985,185775,No
+247,Femenino,No,No,4,Si,Si,DSL,No,Mensual,No,Canal extrabancario,4875,17985,No
+248,Masculino,No,No,21,Si,No,No,No tiene internet,Anual,Si,Canal extrabancario,2035,42270,No
+249,Masculino,Si,Si,70,Si,Si,DSL,Si,Bianual,No,Tarjeta de crédito,6895,485870,No
+250,Femenino,Si,No,57,No,Sin servicio telefónico,DSL,Si,Mensual,Si,Débito en cuenta,4990,278240,No
+251,Masculino,Si,Si,28,Si,No,No,No tiene internet,Bianual,Si,Tarjeta de crédito,2030,48795,No
+252,Femenino,No,No,60,Si,Si,Fibra optica,No,Bianual,No,Cheque electrónico,10470,633380,No
+253,Masculino,Si,Si,22,Si,No,Fibra optica,Si,Mensual,No,Débito en cuenta,7500,157395,No
+254,Masculino,No,No,29,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,9420,260760,No
+255,Femenino,No,No,7,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,7490,54115,Si
+256,Femenino,Si,No,54,Si,Si,Fibra optica,Si,Anual,Si,Débito en cuenta,11560,643105,No
+257,Femenino,Si,Si,72,Si,Si,DSL,Si,Bianual,No,Tarjeta de crédito,8975,659590,No
+258,Masculino,Si,No,23,Si,Si,Fibra optica,Si,Mensual,Si,Cheque electrónico,9925,218640,Si
+259,Masculino,No,No,1,Si,No,DSL,No,Mensual,No,Tarjeta de crédito,4900,4900,No
+260,Femenino,Si,Si,72,Si,Si,No,No tiene internet,Bianual,Si,Débito en cuenta,2625,198805,No
+261,Masculino,Si,Si,70,Si,Si,DSL,Si,Bianual,Si,Tarjeta de crédito,9015,623705,No
+262,Femenino,No,No,1,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8505,8505,Si
+263,Femenino,No,No,11,Si,No,No,No tiene internet,Mensual,No,Débito en cuenta,2030,24630,No
+264,Femenino,No,No,54,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,7950,437025,Si
+265,Femenino,Si,No,12,Si,No,DSL,Si,Mensual,No,Débito en cuenta,5420,69050,No
+266,Femenino,No,No,2,Si,Si,Fibra optica,No,Mensual,No,Tarjeta de crédito,7490,14715,Si
+267,Femenino,No,No,25,Si,No,No,No tiene internet,Mensual,Si,Tarjeta de crédito,1920,53210,No
+268,Masculino,Si,No,10,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,9985,99090,Si
+269,Femenino,Si,No,66,Si,Si,DSL,Si,Bianual,No,Débito en cuenta,6690,437025,No
+270,Femenino,Si,Si,50,Si,Si,DSL,Si,Anual,Si,Débito en cuenta,8005,404220,No
+271,Masculino,No,No,44,Si,Si,DSL,No,Anual,Si,Débito en cuenta,8525,370415,No
+272,Femenino,Si,No,72,Si,Si,Fibra optica,Si,Bianual,Si,Débito en cuenta,11550,831275,No
+273,Masculino,Si,Si,71,Si,No,No,No tiene internet,Bianual,No,Tarjeta de crédito,1980,138845,No
+274,Masculino,No,Si,62,Si,Si,No,No tiene internet,Bianual,Si,Canal extrabancario,2440,141300,No
+275,Masculino,No,No,72,Si,Si,Fibra optica,No,Bianual,Si,Cheque electrónico,10365,763480,No
+276,Femenino,Si,No,53,Si,No,No,No tiene internet,Anual,No,Débito en cuenta,2080,102180,Si
+277,Femenino,Si,No,1,Si,No,No,No tiene internet,Mensual,Si,Débito en cuenta,2030,2030,No
+278,Femenino,Si,Si,55,Si,Si,DSL,Si,Anual,Si,Tarjeta de crédito,7500,421390,No
+279,Masculino,Si,Si,57,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,2075,112315,No
+280,Masculino,No,Si,48,Si,Si,DSL,Si,Anual,Si,Débito en cuenta,6440,303535,No
+281,Femenino,No,No,38,Si,No,Fibra optica,Si,Mensual,Si,Tarjeta de crédito,8390,323360,Si
+282,Femenino,No,No,30,Si,No,DSL,Si,Anual,No,Tarjeta de crédito,7465,230860,No
+283,Femenino,Si,Si,39,Si,Si,Fibra optica,No,Mensual,Si,Tarjeta de crédito,9995,376740,No
+284,Femenino,Si,Si,4,Si,No,DSL,No,Mensual,No,Cheque electrónico,4600,18160,Si
+285,Masculino,No,No,26,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,9835,251530,Si
+286,Masculino,No,No,7,No,Sin servicio telefónico,DSL,No,Anual,Si,Tarjeta de crédito,2435,15085,No
+287,Femenino,Si,No,40,No,Sin servicio telefónico,DSL,No,Mensual,Si,Cheque electrónico,3930,163740,Si
+288,Masculino,Si,Si,11,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,7435,83420,Si
+289,Femenino,No,No,15,Si,Si,DSL,Si,Mensual,Si,Canal extrabancario,5570,89980,Si
+290,Masculino,No,No,19,Si,Si,Fibra optica,Si,Mensual,Si,Cheque electrónico,9060,166000,Si
+291,Femenino,No,No,18,No,Sin servicio telefónico,DSL,No,Mensual,Si,Cheque electrónico,3520,60730,No
+292,Masculino,Si,No,1,Si,No,Fibra optica,No,Mensual,No,Tarjeta de crédito,7535,7535,No
+293,Femenino,Si,Si,33,Si,No,Fibra optica,No,Anual,Si,Cheque electrónico,9380,312450,Si
+294,Femenino,Si,Si,57,Si,No,No,No tiene internet,Bianual,No,Débito en cuenta,1975,127205,No
+295,Femenino,Si,No,18,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,2010,37050,No
+296,Femenino,No,No,8,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,7350,63220,No
+297,Masculino,No,No,29,Si,Si,DSL,No,Anual,No,Tarjeta de crédito,7090,196460,No
+298,Femenino,Si,No,11,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,9400,107890,Si
+299,Femenino,No,No,1,Si,No,No,No tiene internet,Mensual,No,Cheque electrónico,1975,1975,No
+300,Femenino,Si,Si,34,Si,Si,Fibra optica,No,Mensual,Si,Canal extrabancario,7960,271830,Si
+301,Masculino,No,No,1,Si,Si,DSL,No,Mensual,No,Cheque electrónico,5430,5430,No
+302,Femenino,Si,Si,23,Si,Si,DSL,Si,Bianual,Si,Tarjeta de crédito,9110,219830,No
+303,Femenino,No,No,8,Si,Si,DSL,Si,Mensual,Si,Débito en cuenta,6550,57315,No
+304,Femenino,Si,No,33,Si,No,DSL,No,Anual,Si,Tarjeta de crédito,5375,185730,No
+305,Femenino,No,No,27,Si,Si,Fibra optica,No,Mensual,Si,Canal extrabancario,9455,272460,Si
+306,Femenino,No,No,31,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,7605,222780,No
+307,Femenino,No,No,33,Si,Si,Fibra optica,Si,Mensual,Si,Cheque electrónico,9065,298960,No
+308,Femenino,Si,No,6,Si,No,No,No tiene internet,Mensual,No,Débito en cuenta,1950,14630,Si
+309,Masculino,Si,No,10,Si,No,Fibra optica,No,Mensual,Si,Canal extrabancario,9250,93410,Si
+310,Femenino,No,No,47,Si,No,DSL,Si,Anual,Si,Canal extrabancario,5890,281305,No
+311,Femenino,No,No,37,Si,No,DSL,No,Mensual,Si,Cheque electrónico,6475,234520,Si
+312,Femenino,Si,No,52,No,Sin servicio telefónico,DSL,Si,Bianual,No,Tarjeta de crédito,6625,333010,No
+313,Femenino,No,No,34,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2035,67320,No
+314,Masculino,Si,Si,16,Si,Si,Fibra optica,No,Mensual,Si,Débito en cuenta,9080,144220,No
+315,Femenino,No,No,6,No,Sin servicio telefónico,DSL,No,Anual,Si,Canal extrabancario,4925,25560,No
+316,Masculino,No,Si,34,Si,Si,Fibra optica,Si,Anual,Si,Cheque electrónico,10380,347080,No
+317,Masculino,No,No,18,Si,Si,Fibra optica,No,Mensual,Si,Tarjeta de crédito,8055,141165,No
+318,Masculino,Si,No,70,Si,Si,Fibra optica,Si,Bianual,No,Tarjeta de crédito,11430,824430,No
+319,Masculino,No,No,13,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,8085,100870,Si
+320,Femenino,No,No,26,Si,No,DSL,No,Anual,Si,Canal extrabancario,5605,155320,No
+321,Masculino,No,No,1,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,7365,7365,Si
+322,Masculino,No,No,17,No,Sin servicio telefónico,DSL,No,Mensual,No,Tarjeta de crédito,2510,38280,No
+323,Masculino,Si,Si,51,Si,Si,No,No tiene internet,Anual,Si,Canal extrabancario,2395,121635,No
+324,Femenino,Si,No,72,Si,Si,Fibra optica,No,Anual,No,Tarjeta de crédito,10500,757805,No
+325,Femenino,Si,No,67,Si,Si,DSL,No,Bianual,No,Débito en cuenta,8615,588385,No
+326,Femenino,No,No,48,Si,Si,No,No tiene internet,Bianual,No,Tarjeta de crédito,2400,118305,No
+327,Femenino,Si,Si,23,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8375,184995,No
+328,Femenino,No,No,40,No,Sin servicio telefónico,DSL,Si,Mensual,Si,Cheque electrónico,5580,210935,Si
+329,Masculino,No,No,6,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2065,10930,No
+330,Femenino,No,No,7,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,7900,52295,Si
+331,Masculino,No,No,1,Si,No,DSL,Si,Mensual,No,Cheque electrónico,4975,4975,No
+332,Masculino,Si,Si,9,Si,No,DSL,No,Mensual,No,Canal extrabancario,5480,45280,No
+333,Femenino,No,No,27,Si,No,DSL,Si,Bianual,No,Débito en cuenta,5285,149865,No
+334,Femenino,Si,Si,18,Si,Si,No,No tiene internet,Bianual,Si,Tarjeta de crédito,2465,47135,No
+335,Femenino,No,No,38,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,2020,73590,No
+336,Masculino,Si,No,15,Si,Si,Fibra optica,Si,Mensual,Si,Cheque electrónico,9650,139225,No
+337,Femenino,No,No,3,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,7025,22970,No
+338,Masculino,No,No,57,Si,Si,Fibra optica,Si,Bianual,No,Cheque electrónico,9375,562555,No
+339,Femenino,No,No,13,No,Sin servicio telefónico,DSL,No,Mensual,Si,Cheque electrónico,3510,44610,Si
+340,Femenino,No,No,6,Si,No,Fibra optica,No,Mensual,Si,Canal extrabancario,8595,51460,No
+341,Masculino,No,No,9,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8505,74650,Si
+342,Masculino,No,Si,1,Si,No,DSL,No,Mensual,Si,Cheque electrónico,4440,4440,Si
+343,Femenino,Si,No,2,Si,No,Fibra optica,No,Mensual,Si,Tarjeta de crédito,7040,15480,No
+344,Femenino,Si,No,71,Si,Si,DSL,Si,Bianual,No,Tarjeta de crédito,8930,638865,No
+345,Femenino,No,No,2,Si,No,Fibra optica,No,Mensual,No,Débito en cuenta,7000,15305,Si
+346,Masculino,No,No,67,Si,Si,Fibra optica,No,Mensual,Si,Canal extrabancario,7570,506085,No
+347,Femenino,No,No,14,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,7895,110185,Si
+348,Femenino,No,No,72,Si,Si,Fibra optica,Si,Bianual,Si,Débito en cuenta,8470,618515,No
+349,Masculino,Si,No,18,Si,No,Fibra optica,No,Mensual,No,Cheque electrónico,7855,142265,Si
+350,Masculino,Si,No,14,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8515,113920,Si
+351,Masculino,No,No,5,Si,No,DSL,No,Mensual,No,Cheque electrónico,5615,29145,No
+352,Masculino,No,No,25,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8895,229120,Si
+353,Femenino,No,No,5,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,1995,10960,No
+354,Masculino,No,No,2,Si,No,Fibra optica,No,Mensual,No,Cheque electrónico,9495,17810,Si
+355,Femenino,Si,Si,64,Si,Si,No,No tiene internet,Anual,No,Canal extrabancario,2490,159550,No
+356,Masculino,Si,No,61,Si,Si,DSL,Si,Bianual,Si,Canal extrabancario,6990,422670,No
+357,Masculino,No,Si,26,No,Sin servicio telefónico,DSL,No,Anual,Si,Débito en cuenta,3995,102375,No
+358,Femenino,Si,Si,71,Si,Si,No,No tiene internet,Bianual,No,Débito en cuenta,2470,181055,No
+359,Masculino,No,No,2,Si,No,DSL,Si,Mensual,Si,Canal extrabancario,5510,11335,Si
+360,Masculino,No,No,21,Si,Si,Fibra optica,No,Mensual,No,Canal extrabancario,7530,157070,No
+361,Femenino,Si,No,56,Si,Si,Fibra optica,Si,Anual,No,Débito en cuenta,10980,610965,No
+362,Femenino,No,No,26,Si,No,Fibra optica,Si,Mensual,Si,Tarjeta de crédito,8580,219365,No
+363,Masculino,No,No,2,Si,No,No,No tiene internet,Mensual,Si,Cheque electrónico,1965,3120,No
+364,Masculino,No,No,29,No,Sin servicio telefónico,DSL,No,Anual,Si,Canal extrabancario,2485,78805,No
+365,Masculino,No,No,26,Si,No,No,No tiene internet,Anual,Si,Débito en cuenta,1960,47185,No
+366,Masculino,No,No,65,Si,Si,No,No tiene internet,Bianual,No,Canal extrabancario,2575,165475,No
+367,Masculino,Si,No,54,Si,Si,Fibra optica,No,Mensual,Si,Tarjeta de crédito,9905,529570,No
+368,Femenino,Si,Si,29,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,2020,55880,No
+369,Masculino,Si,No,27,Si,Si,Fibra optica,Si,Anual,Si,Cheque electrónico,8590,222010,No
+370,Femenino,Si,No,70,Si,Si,Fibra optica,No,Bianual,Si,Débito en cuenta,10430,718850,No
+371,Femenino,No,No,26,Si,Si,Fibra optica,Si,Mensual,Si,Cheque electrónico,9500,249720,Si
+372,Masculino,No,No,71,Si,Si,Fibra optica,Si,Anual,Si,Débito en cuenta,11630,830955,No
+373,Masculino,No,No,2,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,9585,19770,Si
+374,Masculino,Si,Si,68,Si,No,Fibra optica,Si,Bianual,Si,Débito en cuenta,10525,717315,No
+375,Femenino,Si,Si,55,Si,Si,Fibra optica,Si,Anual,No,Canal extrabancario,10090,544860,No
+376,Masculino,Si,Si,13,Si,No,Fibra optica,Si,Mensual,No,Cheque electrónico,8405,109530,Si
+377,Femenino,Si,No,10,Si,No,No,No tiene internet,Anual,No,Canal extrabancario,2010,18440,No
+378,Masculino,Si,Si,72,Si,Si,DSL,Si,Bianual,Si,Tarjeta de crédito,8355,609330,No
+379,Femenino,Si,Si,58,Si,No,No,No tiene internet,Bianual,No,Tarjeta de crédito,1955,107965,No
+380,Femenino,Si,No,72,No,Sin servicio telefónico,DSL,No,Bianual,Si,Cheque electrónico,5420,393745,Si
+381,Femenino,Si,Si,58,Si,No,No,No tiene internet,Bianual,No,Tarjeta de crédito,2050,119140,No
+382,Masculino,No,No,1,Si,No,DSL,No,Mensual,Si,Cheque electrónico,5050,5050,Si
+383,Masculino,No,Si,31,Si,Si,DSL,No,Anual,Si,Canal extrabancario,7945,258770,Si
+384,Femenino,No,Si,50,Si,No,Fibra optica,No,Bianual,No,Tarjeta de crédito,7035,353360,No
+385,Masculino,Si,No,51,No,Sin servicio telefónico,DSL,No,Mensual,Si,Tarjeta de crédito,2945,145935,No
+386,Masculino,Si,No,59,Si,Si,DSL,Si,Anual,Si,Canal extrabancario,6910,409690,No
+387,Masculino,Si,Si,18,Si,No,No,No tiene internet,Anual,No,Débito en cuenta,2005,34590,No
+388,Femenino,Si,Si,60,Si,Si,Fibra optica,Si,Anual,No,Débito en cuenta,9415,581180,No
+389,Femenino,No,Si,19,Si,Si,DSL,Si,Mensual,Si,Canal extrabancario,7590,137560,No
+390,Masculino,No,No,37,Si,Si,DSL,Si,Anual,Si,Débito en cuenta,9060,335865,No
+391,Femenino,No,No,1,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,6920,6920,Si
+392,Masculino,Si,No,24,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,1975,48315,No
+393,Masculino,Si,No,40,Si,Si,Fibra optica,Si,Mensual,No,Cheque electrónico,10185,408630,Si
+394,Masculino,No,No,1,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2030,2030,No
+395,Femenino,Si,Si,46,Si,Si,Fibra optica,Si,Bianual,No,Canal extrabancario,9965,463020,No
+396,Masculino,No,No,5,Si,No,No,No tiene internet,Mensual,No,Tarjeta de crédito,2005,9555,No
+397,Femenino,No,No,22,Si,Si,DSL,Si,Mensual,Si,Canal extrabancario,5905,125350,No
+398,Femenino,No,No,1,Si,No,Fibra optica,No,Mensual,Si,Cheque electrónico,7085,7085,Si
+399,Masculino,No,No,2,Si,No,Fibra optica,No,Mensual,Si,Tarjeta de crédito,6980,13470,Si
+400,Masculino,Si,Si,29,Si,Si,DSL,Si,Anual,No,Débito en cuenta,6905,195845,No
+401,Femenino,No,No,48,Si,Si,DSL,Si,Anual,Si,Tarjeta de crédito,8345,388785,No
+402,Femenino,No,No,2,Si,No,No,No tiene internet,Mensual,No,Canal extrabancario,2010,3980,No
+403,Femenino,No,No,29,Si,Si,DSL,Si,Mensual,No,Canal extrabancario,6745,180110,No
+404,Femenino,Si,No,7,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8650,58250,Si
+405,Femenino,Si,Si,41,Si,Si,Fibra optica,Si,Mensual,Si,Débito en cuenta,9430,389360,No
+406,Femenino,No,No,25,No,Sin servicio telefónico,DSL,No,Mensual,Si,Cheque electrónico,4825,129380,No
+407,Femenino,No,No,24,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8955,225935,No
+408,Masculino,Si,Si,51,No,Sin servicio telefónico,DSL,Si,Anual,No,Cheque electrónico,5930,301465,Si
+409,Masculino,Si,No,51,Si,Si,Fibra optica,Si,Anual,Si,Débito en cuenta,9365,483915,No
+410,Masculino,No,Si,4,Si,No,DSL,Si,Mensual,Si,Cheque electrónico,4940,18440,Si
+411,Masculino,No,Si,29,No,Sin servicio telefónico,DSL,Si,Mensual,Si,Canal extrabancario,4500,124245,No
+412,Femenino,No,No,19,Si,Si,No,No tiene internet,Mensual,No,Débito en cuenta,2470,46585,No
+413,Femenino,No,No,1,Si,No,No,No tiene internet,Mensual,Si,Canal extrabancario,2020,2020,Si
+414,Masculino,Si,Si,72,Si,Si,Fibra optica,Si,Bianual,Si,Tarjeta de crédito,10840,776725,No
+415,Femenino,No,No,13,Si,No,Fibra optica,No,Mensual,Si,Canal extrabancario,7015,88670,No
+416,Femenino,Si,No,14,Si,No,Fibra optica,Si,Anual,No,Canal extrabancario,10595,134890,Si
+417,Masculino,Si,Si,6,Si,No,No,No tiene internet,Bianual,Si,Tarjeta de crédito,2040,10760,No
+418,Masculino,Si,No,1,No,Sin servicio telefónico,DSL,No,Mensual,Si,Cheque electrónico,5035,5035,Si
+419,Femenino,Si,Si,8,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,1905,20170,No
+420,Femenino,Si,No,9,Si,Si,Fibra optica,Si,Mensual,No,Débito en cuenta,9175,86580,Si
+421,Femenino,No,No,4,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,8885,37245,Si
+422,Femenino,Si,No,48,Si,Si,DSL,Si,Anual,Si,Débito en cuenta,6060,298525,No
+423,Masculino,No,No,49,Si,Si,Fibra optica,No,Mensual,Si,Débito en cuenta,7460,372035,No
+424,Femenino,Si,No,62,Si,No,Fibra optica,Si,Anual,Si,Cheque electrónico,10430,661365,No
+425,Masculino,Si,Si,22,Si,No,Fibra optica,No,Anual,Si,Canal extrabancario,10005,209025,No
+426,Femenino,Si,Si,57,Si,No,No,No tiene internet,Bianual,Si,Débito en cuenta,2010,108770,No
+427,Femenino,Si,No,72,Si,Si,Fibra optica,Si,Bianual,Si,Débito en cuenta,8405,605225,No
+428,Femenino,Si,Si,5,Si,No,DSL,Si,Mensual,Si,Canal extrabancario,4940,23255,No
+429,Femenino,No,No,4,Si,No,DSL,Si,Mensual,Si,Canal extrabancario,6040,27215,Si
+430,Femenino,No,No,39,Si,No,No,No tiene internet,Bianual,No,Canal extrabancario,2015,82600,No
+431,Femenino,Si,No,63,Si,Si,Fibra optica,No,Mensual,Si,Cheque electrónico,10350,647940,No
+432,Masculino,No,No,13,Si,No,DSL,No,Mensual,No,Canal extrabancario,7335,93155,No
+433,Femenino,No,No,72,Si,No,No,No tiene internet,Bianual,Si,Débito en cuenta,2115,141940,No
